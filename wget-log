@@ -1,0 +1,6 @@
+--2024-02-02 16:11:20--  https://keyserver.ubuntu.com/pks/lookup?op=get
+Resolvendo keyserver.ubuntu.com (keyserver.ubuntu.com)... 2620:2d:4000:1007::d43, 2620:2d:4000:1007::70c, 185.125.188.26, ...
+Conectando-se a keyserver.ubuntu.com (keyserver.ubuntu.com)|2620:2d:4000:1007::d43|:443... conectado.
+A requisição HTTP foi enviada, aguardando resposta... 400 Bad Request
+2024-02-02 16:11:21 ERRO 400: Bad Request.
+
